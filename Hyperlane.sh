@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # 显示 Logo
-curl -s https://raw.githubusercontent.com/zunxbt/logo/main/logo.sh | bash
+curl -s https://raw.githubusercontent.com/sdohuajia/Hyperlane/refs/heads/main/logo.sh | bash
 sleep 3
 
 # 定义显示函数
