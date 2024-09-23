@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# 脚本保存路径
+SCRIPT_PATH="$HOME/Hyperlane.sh"
+
 # 显示 Logo
 curl -s https://raw.githubusercontent.com/sdohuajia/Hyperlane/refs/heads/main/logo.sh | bash
 sleep 3
